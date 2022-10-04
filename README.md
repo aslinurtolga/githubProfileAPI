@@ -1,14 +1,25 @@
-# Project : Country Flags Info
+# Project : Github Profile API
 
-## Check The Live Website :arrow_right: [Live Website](https://skycooper.github.io/CountryFlagsInfo/)
+## Check The Live Website :arrow_right: [Live Website](https://aslinurtolga.github.io/githubProfileAPI/)
 
 ## Animation of the Website
 
 ![image](./images/github2.gif)
 
+## Visulation of the Website
+
+![image](./images/githubAPI.jpg)
+
+![image](https://github.com/aslinurtolga/githubProfileAPI/blob/main/images/github1.jpg)
+
+
+
+
+
+
 ## Description
 
-Project aims get information about countries via a RESTful API
+Project aims get information about github users via a GITHUB API
 
 ## Learning Outcomes
 
@@ -18,20 +29,23 @@ At the end of the this project, you will be able to;
 
 - demonstrate your knowledge of algorithmic design principles,
 
-- get information about countries via a API.
+- get information about github users via a API.
 
 
 ## Project Skeleton 
 
-|----CountryFlagsInfo
+|----githubProfileAPI
 
         |----index.html  
         |----script.js
-        |----CountryInformation.gif
-        |----img
+        |----style.css
+        |----images
+                |----github1.jpg
+                |----githubAPI.jpg
+                |----github2.gif
         |----readme.md 
 
 ### Overview
 I mastered HTML, CSS and Javascript fetch API features in this project. You can see the visual representation of the website above.
 
-:fire: You can use [REST COUNTRIES API ](https://restcountries.com/) for your app. 
+:fire: You can use [GITHUB API](https://api.github.com/users/) for your app. 
